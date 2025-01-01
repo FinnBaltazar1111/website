@@ -17,7 +17,7 @@
     "@astrojs/vercel": "^7.8.2",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-    "@fontsource/inter": "^5.1.0",
+    "@fontsource/inter": "^5.1.1",
     "@mui/icons-material": "^5.16.13",
     "@mui/joy": "5.0.0-beta.48",
     "@types/react": "^18.3.18",
@@ -33,5 +33,5 @@
     "prettier-plugin-astro": "^0.13.0",
     "typescript": "^5.7.2"
   },
-  "packageManager": "pnpm@9.15.1"
+  "packageManager": "pnpm@9.15.2"
 }
